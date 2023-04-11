@@ -1,5 +1,24 @@
 # Change Log
 
+## v2.1.4 (2022-11-23)
+
+#### :bug: Bug Fix
+* [#4398](https://github.com/Semantic-Org/Semantic-UI-React/pull/4398) fix(Input): pass focus options ([@meltyshev](https://github.com/meltyshev))
+* [#4399](https://github.com/Semantic-Org/Semantic-UI-React/pull/4399) fix(Button): pass focus options ([@meltyshev](https://github.com/meltyshev))
+* [#4390](https://github.com/Semantic-Org/Semantic-UI-React/pull/4390) fix(types): Update SemanticShorthandCollection to support Typescript 4.8 ([@timduffin](https://github.com/timduffin))
+* [#4377](https://github.com/Semantic-Org/Semantic-UI-React/pull/4377) fix(core): add `enterKeyHint` to list of `htmlInputAttrs` ([@ben-rogerson](https://github.com/ben-rogerson))
+
+#### :memo: Documentation
+* [#4383](https://github.com/Semantic-Org/Semantic-UI-React/pull/4383) docs: updates to contribution.md ([@carkod](https://github.com/carkod))
+
+## v2.1.3 (2022-05-31)
+
+#### :bug: Bug Fix
+* [#4356](https://github.com/Semantic-Org/Semantic-UI-React/pull/4356) fix: make typings compatible with @types/react@18 ([@Lurk](https://github.com/Lurk))
+
+#### :house: Internal
+* [#4369](https://github.com/Semantic-Org/Semantic-UI-React/pull/4369) chore: allow React 18 in peerDependencies ([@layershifter](https://github.com/layershifter))
+
 ## v2.1.2 (2022-02-17)
 
 #### :bug: Bug Fix
